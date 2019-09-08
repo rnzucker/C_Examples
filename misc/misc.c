@@ -1,4 +1,5 @@
-/* An example program to show how static variables work */
+/* An example program to show how static variables, conditions,
+   and switch statements work */
 
 #include <stdio.h>
 
